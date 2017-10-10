@@ -1,0 +1,25 @@
+{
+  "name": "react-native-calendar-list",
+  "version": "1.0.0",
+  "description": "A cross platform optimized customizable CalendarList component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernancorigliano/react-native-calendar-list.git"
+  },
+  "keywords": [
+    "react",
+    "reactNative",
+    "calendar",
+    "calendarList"
+  ],
+  "author": "Hernan Roy Corigliano <hernancorigliano@gmail.com> (https://github.com/hernancorigliano)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hernancorigliano/react-native-calendar-list/issues"
+  },
+  "homepage": "https://github.com/hernancorigliano/react-native-calendar-list#readme"
+}
