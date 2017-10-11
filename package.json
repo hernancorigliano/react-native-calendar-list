@@ -21,5 +21,16 @@
   "bugs": {
     "url": "https://github.com/hernancorigliano/react-native-calendar-list/issues"
   },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "**/Calendar/*.js",
+      "!**/coverage/**",
+      "!**/ios/**",
+      "!**/android/**",
+      "!**/flow-typed/**"
+    ],
+    "preset": "react-native"
+  },
   "homepage": "https://github.com/hernancorigliano/react-native-calendar-list#readme"
 }
