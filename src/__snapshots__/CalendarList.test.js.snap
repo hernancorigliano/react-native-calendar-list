@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calendar rendering matches snapshot 1`] = `
+<View
+  onLayout={[Function]}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+      }
+    }
+  />
+</View>
+`;
