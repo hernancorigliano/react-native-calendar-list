@@ -1,6 +1,6 @@
 {
   "name": "react-native-calendar-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cross platform optimized customizable CalendarList component for React Native",
   "main": "index.js",
   "scripts": {
