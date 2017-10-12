@@ -12,7 +12,6 @@ A cross platform optimized customizable CalendarList component for React Native.
 
 ## Examples
 
-A light & dark styled version.
 ![exmple 1](https://github.com/hernancorigliano/react-native-calendar-list/blob/v1.0.1/images/e1.png) ![exmple 2](https://github.com/hernancorigliano/react-native-calendar-list/blob/v1.0.1/images/e2.png)
 
 
